@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 2c214a304500def47bef8d69886dbe10
+  productGUID: b6ab72da0b51dda468ce208e3ac35c0e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Enemy 1
+  productName: Enemy 3
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -845,14 +845,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Enemy 1
+  metroPackageName: Enemy 3
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Enemy 1
+  metroApplicationDescription: Enemy 3
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -922,10 +922,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 210a81d3-e24b-467b-a7fb-c4582454ba6d
+  cloudProjectId: 258632b1-b3b7-431f-86d2-85606ae2cbde
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Enemy 1
+  projectName: Enemy 3
   organizationId: jacobm70
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
